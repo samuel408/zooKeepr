@@ -135,6 +135,27 @@
         ""
       ],
       "id": "13"
+    },
+    {
+      "name": "tom",
+      "species": "lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "ted",
+      "species": "panda",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
